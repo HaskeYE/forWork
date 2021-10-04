@@ -53,11 +53,7 @@ except FileNotFoundError:
     print("Неверный путь к файлу")
 except ValueError:
     print("Неверное значение интервала")
-except Exception:
-    print("Приложение было закрыто")
 
 finally:
     # Closing our text file - in other way info would be lost
     txt.close()
-# C:\Games\BsgLauncher\BsgLauncher.exe
-# При неправильном вводе пути программа запросит также ещё временной интервал а потом только вылетит

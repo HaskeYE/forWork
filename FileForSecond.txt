@@ -1,0 +1,6 @@
+Создан или обновлен файл E:\Downloads\pythonProject\forWork\test\fdghrd.txtСоздан или обновлен файл E:\Downloads\pythonProject\forWork\test\somefolder\gngfn.txtУдалена директорияE:\Downloads\pythonProject\forWork\testnew\fdghrd.txtУдален файл E:\Downloads\pythonProject\forWork\testnew\somefolder\yfgjgfj.txtСоздан или обновлен файл E:\Downloads\pythonProject\forWork\test\fdghrd.txt
+Создан или обновлен файл E:\Downloads\pythonProject\forWork\test\somefolder\gngfn.txt
+Создан или обновлен файл E:\Downloads\pythonProject\forWork\test\fdghrd.txt
+Создан или обновлен файл E:\Downloads\pythonProject\forWork\test\somefolder\gngfn.txt
+Создан или обновлен файл E:\Downloads\pythonProject\forWork\test\fdghrd.txt
+Создан или обновлен файл E:\Downloads\pythonProject\forWork\test\somefolder\gngfn.txt
