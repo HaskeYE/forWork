@@ -53,7 +53,8 @@ except FileNotFoundError:
     print("Неверный путь к файлу")
 except ValueError:
     print("Неверное значение интервала")
-
+except NameError:
+    print("Указано неверное значение")
 finally:
     # Closing our text file - in other way info would be lost
     txt.close()
