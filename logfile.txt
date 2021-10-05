@@ -2,3 +2,5 @@
 b'rgergergegh'
 Принято от клиента с ID b'\x1e\x9dql\xc0\x9dC\x88\xb1\x9b|3\xef\xb3\xde\x10':
 b'hgjkkyukuyk\\'
+Принято от клиента с ID b'S\x92w\x0e\x87(A\x07\x94\xa4\xddd\xc7\x12\xbe\x82':
+b'jkghnerkjgerjkgkerjg'
