@@ -55,6 +55,10 @@ except ValueError:
     print("Неверное значение интервала")
 except NameError:
     print("Указано неверное значение")
+except ProcessLookupError:
+    print("Процесс прерван")
+except psutil.NoSuchProcess:
+    print("Процесс прерван")
 finally:
     # Closing our text file - in other way info would be lost
     txt.close()
