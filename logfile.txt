@@ -1,0 +1,4 @@
+Принято от клиента с ID b'\xe2\x12\xbd\xb9CDLM\xba\xd9U*\x07Q\xbd\xdf':
+b'rgergergegh'
+Принято от клиента с ID b'\x1e\x9dql\xc0\x9dC\x88\xb1\x9b|3\xef\xb3\xde\x10':
+b'hgjkkyukuyk\\'
